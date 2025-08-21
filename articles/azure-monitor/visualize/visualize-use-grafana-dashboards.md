@@ -6,7 +6,7 @@ ms.reviewer: kayodeprinceMS
 ms.date: 05/06/2025
 ---
 
-# Use Azure Monitor dashboards with Grafana
+# Use Azure Monitor dashboards with Grafana (Preview)
 This article explains how to use Azure Monitor dashboards with Grafana. It covers creating, editing, importing, and sharing dashboards for monitoring data.
 
 ## Prerequisites
